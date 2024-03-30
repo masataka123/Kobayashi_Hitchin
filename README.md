@@ -6,20 +6,20 @@
 (大阪公立大学 杉本キャンパス 理学部E棟大講究室 E408)
 
 ## Speakers
-Philip Boalch (Institut de Mathématiques de Jussieu - Paris Rive Gauche)
-Xuemiao Chen (University of Waterloo)
-Wu Di (Nanjing University of Science and Technology)
-Laura Fredrickson (University of Oregon)
-Tomas Gomez (Instituto de Ciencias Matematicas)
-Martin Guest (Waseda University)
-Qiongling Li (Chern Institute of Mathematics, Nankai University)
-Marina Logares (Complutense University of Madrid)
-Nicholas McCleerey (Purdue University)
-Takuro Mochizuki (Research Institute for Mathematical Sciences, Kyoto University)
-Laura Schaposnik (University of Illinois)
-Florent Schaffhauser (Heidelberg University.)
-Daisuke Yamakawa (Tokyo University of Science)
-Xi Zhang (Nanjing University of Science and Technology)
+- Philip Boalch (Institut de Mathématiques de Jussieu - Paris Rive Gauche)
+-  Xuemiao Chen (University of Waterloo)
+- Wu Di (Nanjing University of Science and Technology)
+- Laura Fredrickson (University of Oregon)
+- Tomas Gomez (Instituto de Ciencias Matematicas)
+- Martin Guest (Waseda University)
+- Qiongling Li (Chern Institute of Mathematics, Nankai University)
+- Marina Logares (Complutense University of Madrid)
+- Nicholas McCleerey (Purdue University)
+- Takuro Mochizuki (Research Institute for Mathematical Sciences, Kyoto University)
+- Laura Schaposnik (University of Illinois)
+- Florent Schaffhauser (Heidelberg University.)
+- Daisuke Yamakawa (Tokyo University of Science)
+- Xi Zhang (Nanjing University of Science and Technology)
 
 <!-- 
 ## Schedule
@@ -71,7 +71,7 @@ In this map, "R26" denotes Sugimoto-cho Station (杉本町駅).
 Please take a local train, because express trains do not stop at Sugimoto-cho station.
 
 It takes 5 minites on foot from Sugimoto-cho Station to the conference room.
-The map of Faculty of Science is [here](https://masataka123.github.io/2024_summer_calculus/material/sugimoto.png)
+The map of Faculty of Science is [here](https://masataka123.github.io/Kobayashi_Hitchin/material/sugimoto.png)
 In this map, "12E" denotes Faculty of Science, Bldg. E
 Room E408 is located near the elevator on the 4th floor of Faculty of Science, Bldg. E
 
