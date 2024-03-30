@@ -70,23 +70,16 @@ Here is a [map of JR train](https://www.jr-odekake.net/eki/pdf/teisya_02.pdf)
 In this map, "R26" denotes Sugimoto-cho Station (杉本町駅).
 Please take a local train, because express trains do not stop at Sugimoto-cho station.
 
+It takes 5 minites on foot from Sugimoto-cho Station to the conference room.
+The map of Faculty of Science is [here](https://masataka123.github.io/2024_summer_calculus/material/sugimoto.png)
+In this map, "12E" denotes Faculty of Science, Bldg. E
+Room E408 is located near the elevator on the 4th floor of Faculty of Science, Bldg. E
 
-1. **From "Shibahara-handai-mae" Station (monorail)** -柴原阪大前 (大阪モノレール)-: 
-Here are the directions from "Shibahara-handai-mae" Station (monorail) to the Graduate School of Science in Osaka University. [Link to directions](https://www.sci.osaka-u.ac.jp/en/wp-content/uploads/2022/02/Directions-from-Shibahara-handai-mae-Station-to-GSS-Osaka-U_Sep.2020.pdf)
-2.  **From "Ishibashi handai-mae" Station  (Hankyu)** -石橋阪大前 (阪急電鉄)-: 
-Here are the directions from "Ishibashi handai-mae" Station (Hankyu) to the Graduate School of Science in Osaka University. [Link to directions](https://www.sci.osaka-u.ac.jp/en/wp-content/uploads/2022/02/Directions-from-Hankyu-Ishibashi-handai-mae-Station-to-GSS-Osaka-U_Sep.2020.pdf)
-
-
-The map of Graduate School of Science is [here](https://masataka123.github.io/2024_summer_calculus/material/sugimoto.png)
-
-
-[here](https://www.sci.osaka-u.ac.jp/en/wp-content/uploads/2022/07/Buildings-of-Graduate-School-of-Science.pdf).
-Lecture Room E404 is located near the elevator on the 4th floor of Graduate School of Science Building E.
-
- If you need further assistance (for example, how to get to "Shibahara-handai-mae" Station), please refer to [this link](https://www.omu.ac.jp/orp/ocami-en/about/directions/).
+ If you need further assistance (for example, how to get to Sugimoto-cho Station), please refer to [this link](https://www.omu.ac.jp/orp/ocami-en/about/directions/).
 
 ## Others
-ここら
+この辺りには3000円で泊まれるホテルがあります. があまり良くないホテルなので予約しないことをお勧めします. 
+
 We recommend using "Shibahara-handai-mae" Station (monorail). 
  
  
