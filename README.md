@@ -78,12 +78,9 @@ Room E408 is located near the elevator on the 4th floor of Faculty of Science, B
  If you need further assistance (for example, how to get to Sugimoto-cho Station), please refer to [this link](https://www.omu.ac.jp/orp/ocami-en/about/directions/).
 
 ## Others
-この辺りには3000円で泊まれるホテルがあります. があまり良くないホテルなので予約しないことをお勧めします. 
-
-We recommend using "Shibahara-handai-mae" Station (monorail). 
+There is a hotel around Tennoji (天王寺) or Nishinari (西成) where you can stay for around 3,000yen.  
+However, it is not a  good hotel, so we do not recommend you book it. 
  
- 
-
 ## Organizers
 - [Yoshinori Hashimoto](https://sites.google.com/view/yhashimoto/home) (Osaka Metropolitan University)
 - [Masataka Iwai](https://masataka123.github.io/blog3_e/) (Osaka University)
