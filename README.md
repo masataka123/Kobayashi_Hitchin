@@ -65,9 +65,9 @@ Here is the PDF file of program and abstracts. [Program](https://masataka123.git
 
 ## Access
 
-Sugimoto-cho Station (杉本町駅)  is the nearest station to Osaka Metropolitan University (Sugimoto Campus) .
-Here is a [map of JR train](https://www.jr-odekake.net/eki/pdf/teisya_02.pdf) 
-In this map, "R26" denotes Sugimoto-cho Station (杉本町駅).
+Sugimotocho Station (杉本町駅)  is the nearest station to Osaka Metropolitan University (Sugimoto Campus).
+Here is a [map of JR train](https://masataka123.github.io/Kobayashi_Hitchin/material/hanwa/pdf).
+In this map, "R26" denotes Sugimotocho Station (杉本町駅).
 Please take a local train, because express trains do not stop at Sugimoto-cho station.
 
 It takes 5 minites on foot from Sugimoto-cho Station to the conference room.
@@ -77,8 +77,8 @@ Room E408 is located near the elevator on the 4th floor of Faculty of Science, B
 
  If you need further assistance (for example, how to get to Sugimoto-cho Station), please refer to [this link](https://www.omu.ac.jp/orp/ocami-en/about/directions/).
 
-## Others
-There is a hotel around Tennoji (天王寺) or Nishinari (西成) where you can stay for around 3,000yen.  
+## Other informations
+There is a hotel around Tennoji (天王寺) or Nishinari (西成) where you can stay for around 3,000 yen.  
 However, it is not a  good hotel, so we do not recommend you book it. 
  
 ## Organizers
