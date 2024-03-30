@@ -2,10 +2,15 @@
 
 ## Information
 - Date: 5th--9th August 2024. 
-- Place: Osaka Metropolitan University (Sugimoto Campus), Faculty of Science, Bldg. E, Room E408 (4F).
+- Place: Osaka Metropolitan University (Sugimoto Campus).
+<!-- 
+Faculty of Science, Bldg. E, Room E408 (4F).
 (大阪公立大学 杉本キャンパス 理学部E棟大講究室 E408)
+-->
 
 ## Speakers
+To Be Announced.
+<!--
 - Philip Boalch (Institut de Mathématiques de Jussieu - Paris Rive Gauche)
 -  Xuemiao Chen (University of Waterloo)
 - Wu Di (Nanjing University of Science and Technology)
@@ -20,7 +25,7 @@
 - Florent Schaffhauser (Heidelberg University.)
 - Daisuke Yamakawa (Tokyo University of Science)
 - Xi Zhang (Nanjing University of Science and Technology)
-
+-->
 <!-- 
 ## Schedule
 
@@ -63,6 +68,7 @@ We will inform around  June or July 2024.
 Here is the PDF file of program and abstracts. [Program](https://masataka123.github.io/complexgeometry_osaka_2024/material/program.pdf)
 -->
 
+<!--
 ## Access
 
 Sugimotocho Station (杉本町駅)  is the nearest station to Osaka Metropolitan University (Sugimoto Campus).
@@ -75,11 +81,12 @@ The map of Faculty of Science is [here](https://masataka123.github.io/Kobayashi_
 In this map, "12E" denotes Faculty of Science, Bldg. E
 Room E408 is located near the elevator on the 4th floor of Faculty of Science, Bldg. E
 
- If you need further assistance (for example, how to get to Sugimoto-cho Station), please refer to [this link](https://www.omu.ac.jp/orp/ocami-en/about/directions/).
+ If you need further assistance (for example, how to get to Sugimotocho Station from Kansai International Airport), please refer to [this link](https://www.omu.ac.jp/orp/ocami-en/about/directions/).
 
 ## Other informations
 There is a hotel around Tennoji (天王寺) or Nishinari (西成) where you can stay for around 3,000 yen.  
 However, it is not a  good hotel, so we do not recommend you book it. 
+ -->
  
 ## Organizers
 - [Yoshinori Hashimoto](https://sites.google.com/view/yhashimoto/home) (Osaka Metropolitan University)
@@ -88,32 +95,12 @@ However, it is not a  good hotel, so we do not recommend you book it.
 - [Natsuo Miyatake](https://sites.google.com/view/natsuomiyatake/home?authuser=2) (Mathematical Science Center for Co-creative Society, Tohoku University,)
 If you have any questions concerning this conference, please contact Yoshinori Hashimoto (yhashimoto[at]omu.ac.jp) and Masataka Iwai (masataka[at]math.sci.osaka-u.ac.jp).
 
-## Supports
+## Supports 1 (OCAMI)
+This conference is supported by "Osaka Central Advanced Mathematical Institute (MEXT Promotion of Distinctive Joint Research Center Program JPMXP0723833165), Osaka Metropolitan University".
 
-
-- 
+## Supports 2 (KAKENHI)
+- JSPS KAKENHI 23K03120 Grant-in-Aid for Scientific Research (C) (Hashimoto)
 - JSPS KAKENHI 22K13907 Grant-in-Aid for Early Career Scientists. (Iwai)
 - JSPS KAKENHI 19H01787 Grant-in-Aid for Scientific Research (B) (Kasuya)
 
-## Links
-- [Workshop on Complex Geometry in Osaka 2023](https://sites.google.com/site/hisashikasuyamath/workshop-on-complex-geometry-in-osaka-2023)
-- [Workshop on Complex Geometry in Osaka 2022](https://sites.google.com/site/hisashikasuyamath/workshop-on-complex-geometry)
 
-
-
-<!-- 
-
-## -- Hodge theory and vanishing theorem --
-Science Buildingsへの行き方は二つあります
--Shibahara-handai-mae" Station(monorail)から来る方法. Shibahara-handai-mae" Stationから大阪大学理学部のアクセス方法はこちらです. [](https://www.sci.osaka-u.ac.jp/en/wp-content/uploads/2022/02/Directions-from-Shibahara-handai-mae-Station-to-GSS-Osaka-U_Sep.2020.pdf)
-- Ishibashi Station (Hankyu)から来る方法. Ishibashi Station (Hankyu)から大阪大学理学部のアクセス方法はこちらです[](https://www.sci.osaka-u.ac.jp/en/wp-content/uploads/2022/02/Directions-from-Hankyu-Ishibashi-handai-mae-Station-to-GSS-Osaka-U_Sep.2020.pdf)
-私はShibahara-handai-mae" Station(monorail)を利用するのをお勧めします. 
-
-理学研究科E棟の地図はこちらです.[](https://www.sci.osaka-u.ac.jp/en/wp-content/uploads/2022/07/Buildings-of-Graduate-School-of-Science.pdf)
-404講義室はE棟の4階エレベーターのすぐ近くの部屋です. 
-
-
-もしわからない場合はこちらも参考にしてください. 
-
-[ガイダンス資料+演習問題集](https://masataka123.github.io/2023_winter_generaltopology/material/0_位相問題集.pdf).
--->
