@@ -97,6 +97,7 @@ However, it is not a  good hotel, so we do not recommend you book it.
 - [Masataka Iwai](https://masataka123.github.io/blog3_e/) (Osaka University)
 - [Hisashi Kasuya](https://sites.google.com/site/hisashikasuyamath/home) (Osaka University)
 - [Natsuo Miyatake](https://sites.google.com/view/natsuomiyatake/home?authuser=2) (Mathematical Science Center for Co-creative Society, Tohoku University,)
+
 If you have any questions concerning this conference, please contact Yoshinori Hashimoto (yhashimoto[at]omu.ac.jp) and Masataka Iwai (masataka[at]math.sci.osaka-u.ac.jp).
 
 ## Supports 1 (OCAMI)
