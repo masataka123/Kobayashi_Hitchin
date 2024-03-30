@@ -2,14 +2,17 @@
 
 ## Information
 - Date: 5th--9th August 2024. 
-- Place: Osaka Metropolitan University (Sugimoto Campus).
+- Place: Osaka Metropolitan University
+
 <!-- 
+Osaka Metropolitan University (Sugimoto Campus).
 Faculty of Science, Bldg. E, Room E408 (4F).
 (大阪公立大学 杉本キャンパス 理学部E棟大講究室 E408)
 -->
 
 ## Speakers
 To Be Announced.
+
 <!--
 - Philip Boalch (Institut de Mathématiques de Jussieu - Paris Rive Gauche)
 -  Xuemiao Chen (University of Waterloo)
@@ -26,6 +29,7 @@ To Be Announced.
 - Daisuke Yamakawa (Tokyo University of Science)
 - Xi Zhang (Nanjing University of Science and Technology)
 -->
+
 <!-- 
 ## Schedule
 
