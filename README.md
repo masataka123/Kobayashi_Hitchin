@@ -5,7 +5,7 @@
 - Place: 
 Osaka Metropolitan University (Sugimoto Campus).
 Faculty of Science, Bldg. E, Room E108 (1F).
-(大阪公立大学 杉本キャンパス 理学部E棟大講究室 E408)
+(大阪公立大学 杉本キャンパス 理学部E棟大講究室 E108)
 
 ## Speakers
 To Be Announced.
