@@ -104,5 +104,5 @@ This conference is supported by "Osaka Central Advanced Mathematical Institute (
 - JSPS KAKENHI 23K03120 Grant-in-Aid for Scientific Research (C) (Hashimoto)
 - JSPS KAKENHI 22K13907 Grant-in-Aid for Early Career Scientists. (Iwai)
 - JSPS KAKENHI 19H01787 Grant-in-Aid for Scientific Research (B) (Kasuya)
-
+- JSPS KAKENHI 24K16912 Grant-in-Aid for Early Career Scientists. (Miyatake)
 
