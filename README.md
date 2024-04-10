@@ -2,13 +2,10 @@
 
 ## Information
 - Date: 5th--9th August 2024. 
-- Place: Osaka Metropolitan University
-
-<!-- 
+- Place: 
 Osaka Metropolitan University (Sugimoto Campus).
-Faculty of Science, Bldg. E, Room E408 (4F).
+Faculty of Science, Bldg. E, Room E108 (1F).
 (大阪公立大学 杉本キャンパス 理学部E棟大講究室 E408)
--->
 
 ## Speakers
 To Be Announced.
@@ -72,19 +69,20 @@ We will inform around  June or July 2024.
 Here is the PDF file of program and abstracts. [Program](https://masataka123.github.io/complexgeometry_osaka_2024/material/program.pdf)
 -->
 
-<!--
+
 ## Access
 
 Sugimotocho Station (杉本町駅)  is the nearest station to Osaka Metropolitan University (Sugimoto Campus).
 Here is a [map of JR train](https://masataka123.github.io/Kobayashi_Hitchin/material/hanwa.pdf).
 In this map, "R26" denotes Sugimotocho Station (杉本町駅).
 
+ If you need further assistance (for example, how to get to Sugimotocho Station from Kansai International Airport), please refer to [this link](https://www.omu.ac.jp/orp/ocami-en/about/directions/).
+
+
+<!--
 It takes 5 minites on foot from Sugimoto-cho Station to the conference room.
 The map of Faculty of Science is [here](https://masataka123.github.io/Kobayashi_Hitchin/material/sugimoto.png)
 In this map, "12E" denotes Faculty of Science, Bldg. E. 
-Room E408 is located near the elevator on the 4th floor of Faculty of Science, Bldg. E
-
- If you need further assistance (for example, how to get to Sugimotocho Station from Kansai International Airport), please refer to [this link](https://www.omu.ac.jp/orp/ocami-en/about/directions/).
 
 ## Other informations
 There is a hotel around Tennoji (天王寺) or Nishinari (西成) where you can stay for around 3,000 yen.  
