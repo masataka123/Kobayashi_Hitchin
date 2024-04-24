@@ -21,6 +21,8 @@ Faculty of Science, Bldg. E, Room E108 (1F).
 - Vamsi Pritham Pingali (Indian Institute of Science)
 - Ryosuke Takahashi (Tohoku University)
 To Be Announced…
+
+
 <!--
 - Martin Guest (Waseda University)
 - Laura Fredrickson (University of Oregon)
@@ -61,7 +63,8 @@ Geometry of logarithmic forms and deformations of complex structures
 mixed Hodge modules of normal crossing type on a smooth toric variety
 
  - 14:00--18:00 Free disccustio
--->
+ -->
+ 
 
 ##  Program
 
