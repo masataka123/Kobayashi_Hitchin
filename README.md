@@ -8,26 +8,27 @@ Faculty of Science, Bldg. E, Room E108 (1F).
 (大阪公立大学 杉本キャンパス 理学部E棟大講究室 E108)
 
 ## Speakers
-To Be Announced.
-
-<!--
-- Philip Boalch (Institut de Mathématiques de Jussieu - Paris Rive Gauche)
--  Xuemiao Chen (University of Waterloo)
-- Wu Di (Nanjing University of Science and Technology)
-- Laura Fredrickson (University of Oregon)
-- Tomas Gomez (Instituto de Ciencias Matematicas)
-- Martin Guest (Waseda University)
 - Qiongling Li (Chern Institute of Mathematics, Nankai University)
+- Di Wu (Nanjing University of Science and Technology)
+- Xuemiao Chen (University of Waterloo)
 - Marina Logares (Complutense University of Madrid)
-- Nicholas McCleerey (Purdue University)
+- Tomas Gomez (Instituto de Ciencias Matematicas)
+- Florent Schaffhauser (Heidelberg University)
+- Ruxandra Moraru (University of Waterloo)
 - Takuro Mochizuki (Research Institute for Mathematical Sciences, Kyoto University)
-- Laura Schaposnik (University of Illinois)
-- Florent Schaffhauser (Heidelberg University.)
 - Daisuke Yamakawa (Tokyo University of Science)
+- Wenhao Ou (Academy of Mathematics and System Science, Chinese Academy of Science)
+- Vamsi Pritham Pingali (Indian Institute of Science)
+- Ryosuke Takahashi (Tohoku University)
+To Be Announced…
+<!--
+- Martin Guest (Waseda University)
+- Laura Fredrickson (University of Oregon)
+- Philip Boalch (Institut de Mathématiques de Jussieu - Paris Rive Gauche)
+- Nicholas McCleerey (Purdue University)
+- Laura Schaposnik (University of Illinois)
 - Xi Zhang (Nanjing University of Science and Technology)
--->
 
-<!-- 
 ## Schedule
 
 ### 13th March
@@ -101,8 +102,9 @@ If you have any questions concerning this conference, please contact Yoshinori H
 This conference is supported by "Osaka Central Advanced Mathematical Institute (MEXT Promotion of Distinctive Joint Research Center Program JPMXP0723833165), Osaka Metropolitan University".
 
 ## Supports 2 (KAKENHI)
-- JSPS KAKENHI 23K03120 Grant-in-Aid for Scientific Research (C) (Hashimoto)
-- JSPS KAKENHI 22K13907 Grant-in-Aid for Early Career Scientists. (Iwai)
-- JSPS KAKENHI 19H01787 Grant-in-Aid for Scientific Research (B) (Kasuya)
-- JSPS KAKENHI 24K16912 Grant-in-Aid for Early Career Scientists. (Miyatake)
+- JSPS KAKENHI 19H01787 Grant-in-Aid for Scientific Research (B) 
+- JSPS KAKENHI 20K03592 Grant-in-Aid for Scientific Research (C) 
+- JSPS KAKENHI 22K13907 Grant-in-Aid for Early Career Scientists. 
+- JSPS KAKENHI 23K03120 Grant-in-Aid for Scientific Research (C) 
+- JSPS KAKENHI 24K16912 Grant-in-Aid for Early Career Scientists. 
 
