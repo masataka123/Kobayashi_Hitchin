@@ -10,7 +10,7 @@ Faculty of Science, Bldg. E, Room E108 (1F).
 ## Speakers
 - Qiongling Li (Chern Institute of Mathematics, Nankai University)
 - Di Wu (Nanjing University of Science and Technology)
-- Xuemiao Chen (University of Waterloo) *to be confirmed.
+- Xuemiao Chen (University of Waterloo) 
 - Marina Logares (Complutense University of Madrid)
 - Tomas Gomez (Instituto de Ciencias Matematicas)
 - Florent Schaffhauser (Heidelberg University)
@@ -20,6 +20,7 @@ Faculty of Science, Bldg. E, Room E108 (1F).
 - Wenhao Ou (Academy of Mathematics and System Science, Chinese Academy of Science)
 - Vamsi Pritham Pingali (Indian Institute of Science)
 - Ryosuke Takahashi (Tohoku University)
+- Nicholas McCleerey (Purdue University)
 
 To Be Announced…
 
@@ -28,7 +29,7 @@ To Be Announced…
 - Martin Guest (Waseda University)
 - Laura Fredrickson (University of Oregon)
 - Philip Boalch (Institut de Mathématiques de Jussieu - Paris Rive Gauche)
-- Nicholas McCleerey (Purdue University)
+
 - Laura Schaposnik (University of Illinois)
 - Xi Zhang (Nanjing University of Science and Technology)
 
