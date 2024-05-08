@@ -10,7 +10,7 @@ Faculty of Science, Bldg. E, Room E108 (1F).
 ## Speakers
 - Qiongling Li (Chern Institute of Mathematics, Nankai University)
 - Di Wu (Nanjing University of Science and Technology)
-- Xuemiao Chen (University of Waterloo)
+- Xuemiao Chen (University of Waterloo) *to be confirmed.
 - Marina Logares (Complutense University of Madrid)
 - Tomas Gomez (Instituto de Ciencias Matematicas)
 - Florent Schaffhauser (Heidelberg University)
