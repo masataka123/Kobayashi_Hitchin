@@ -22,7 +22,6 @@ Faculty of Science, Bldg. E, Room E108 (1F).
 - Ryosuke Takahashi (Tohoku University)
 - Nicholas McCleerey (Purdue University)
 - Yohan Brunebarbe (Université de Bordeaux)
-
 - Natsuo Miyatake (Mathematical Science Center for Co-creative Society, Tohoku University)
 
 <!--
