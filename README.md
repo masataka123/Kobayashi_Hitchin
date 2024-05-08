@@ -23,6 +23,7 @@ Faculty of Science, Bldg. E, Room E108 (1F).
 - Nicholas McCleerey (Purdue University)
 - Yohan Brunebarbe (Université de Bordeaux)
 - Natsuo Miyatake (Mathematical Science Center for Co-creative Society, Tohoku University)
+- Takashi Ono (Osaka University)
 
 <!--
 - Martin Guest (Waseda University)
