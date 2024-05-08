@@ -22,8 +22,6 @@ Faculty of Science, Bldg. E, Room E108 (1F).
 - Ryosuke Takahashi (Tohoku University)
 - Nicholas McCleerey (Purdue University)
 - Yohan Brunebarbe (Université de Bordeaux)
-To Be Announced…
-
 
 <!--
 - Martin Guest (Waseda University)
