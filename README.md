@@ -21,7 +21,7 @@ Faculty of Science, Bldg. E, Room E108 (1F).
 - Vamsi Pritham Pingali (Indian Institute of Science)
 - Ryosuke Takahashi (Tohoku University)
 - Nicholas McCleerey (Purdue University)
-
+- Yohan Brunebarbe (Université de Bordeaux)
 To Be Announced…
 
 
