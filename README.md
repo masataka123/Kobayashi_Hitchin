@@ -7,6 +7,7 @@ Osaka Metropolitan University (Sugimoto Campus).
 Faculty of Science, Bldg. E, Room E108 (1F).
 (大阪公立大学 杉本キャンパス 理学部E棟大講究室 E108)
 
+
 ## Speakers
 - Qiongling Li (Chern Institute of Mathematics, Nankai University)
 - Di Wu (Nanjing University of Science and Technology)
