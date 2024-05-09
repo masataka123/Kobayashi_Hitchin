@@ -1,4 +1,4 @@
-# New developments in Kobayashi--Hitchin correspondence and Higgs bundles
+
 
 ## Information
 - Date: 5th--9th August 2024. 
@@ -26,6 +26,7 @@ Faculty of Science, Bldg. E, Room E108 (1F).
 - Takashi Ono (Osaka University)
 
 <!--
+# New developments in Kobayashi--Hitchin correspondence and Higgs bundles
 - Martin Guest (Waseda University)
 - Laura Fredrickson (University of Oregon)
 - Philip Boalch (Institut de Mathématiques de Jussieu - Paris Rive Gauche)
