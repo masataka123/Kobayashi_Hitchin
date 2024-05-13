@@ -21,12 +21,17 @@ Faculty of Science, Bldg. E, Room E108 (1F).
 - Ryosuke Takahashi (Tohoku University)
 - Nicholas McCleerey (Purdue University)
 - Yohan Brunebarbe (Université de Bordeaux)
+- Pengfei Huang (Max-Planck-Institut for Mathematics in the Science)
 - Natsuo Miyatake (Mathematical Science Center for Co-creative Society, Tohoku University)
 - Takashi Ono (Osaka University)
 
+
+##  Registration
+
+As for registration, we will open a form around June or July 2024.
+
 <!--
 # New developments in Kobayashi--Hitchin correspondence and Higgs bundles
-
 
 - Martin Guest (Waseda University)
 - Laura Fredrickson (University of Oregon)
