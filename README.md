@@ -1,4 +1,3 @@
-# New developments in Kobayashi--Hitchin correspondence and Higgs bundles
 
 ## Information
 - Date: 5th--9th August 2024. 
