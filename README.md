@@ -8,6 +8,32 @@ Faculty of Science, Bldg. E, Room E108 (1F).
 
 
 ## Speakers
+- Yohan Brunebarbe (Université de Bordeaux)
+- Xuemiao Chen (University of Waterloo) 
+- Tomas Gomez (Instituto de Ciencias Matematicas)
+- Pengfei Huang (Max-Planck-Institut for Mathematics in the Science)
+- Qiongling Li (Chern Institute of Mathematics, Nankai University)
+- Marina Logares (Complutense University of Madrid)
+- Nicholas McCleerey (Purdue University)
+- Natsuo Miyatake (Mathematical Science Center for Co-creative Society, Tohoku University)
+- Takuro Mochizuki (Research Institute for Mathematical Sciences, Kyoto University)
+- Ruxandra Moraru (University of Waterloo)
+- Takashi Ono (Osaka University)
+- Wenhao Ou (Academy of Mathematics and System Science, Chinese Academy of Science)
+- Vamsi Pritham Pingali (Indian Institute of Science)
+- Florent Schaffhauser (Heidelberg University)
+- Ryosuke Takahashi (Tohoku University)
+- Di Wu (Nanjing University of Science and Technology)
+- Daisuke Yamakawa (Tokyo University of Science)
+
+
+##  Registration
+
+As for registration, we will open a form around June or July 2024.
+
+<!--
+# New developments in Kobayashi--Hitchin correspondence and Higgs bundles
+
 - Qiongling Li (Chern Institute of Mathematics, Nankai University)
 - Di Wu (Nanjing University of Science and Technology)
 - Xuemiao Chen (University of Waterloo) 
@@ -27,19 +53,6 @@ Faculty of Science, Bldg. E, Room E108 (1F).
 - Takashi Ono (Osaka University)
 
 
-##  Registration
-
-As for registration, we will open a form around June or July 2024.
-
-<!--
-# New developments in Kobayashi--Hitchin correspondence and Higgs bundles
-
-- Martin Guest (Waseda University)
-- Laura Fredrickson (University of Oregon)
-- Philip Boalch (Institut de Mathématiques de Jussieu - Paris Rive Gauche)
-
-- Laura Schaposnik (University of Illinois)
-- Xi Zhang (Nanjing University of Science and Technology)
 
 ## Schedule
 
