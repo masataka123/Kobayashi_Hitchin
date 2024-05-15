@@ -9,7 +9,7 @@ Faculty of Science, Bldg. E, Room E108 (1F).
 
 ## Speakers
 - Yohan Brunebarbe (Université de Bordeaux)
-- Xuemiao Chen (University of Waterloo) 
+- Xuemiao Chen (University of Waterloo) **to be confirmed**
 - Tomas Gomez (Instituto de Ciencias Matematicas)
 - Pengfei Huang (Max-Planck-Institut for Mathematics in the Science)
 - Qiongling Li (Chern Institute of Mathematics, Nankai University)
