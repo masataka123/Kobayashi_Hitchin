@@ -56,35 +56,37 @@ As for registration, we will open a form around June or July 2024.
 
 ## Schedule
 
-### 13th March
 
-- 9:00--12:00 Free disccustion 
-- 13:00--13:30 Resistration 
+### 5th August (Monday)
+1. 10:30-- Registration
+2. 11:30--12:30 Ruxandra Moraru (University of Waterloo)
+3. 14:30--15:30 Takuro Mochizuki (Research Institute for Mathematical Sciences, Kyoto University)
+4. 16:00--17:00 Qiongling Li (Chern Institute of Mathematics, Nankai University)
+5. 17:20--18:00 Natsuo Miyatake (Mathematical Science Center for Co-creative Society, Tohoku University)
 
-### 17th September (Tuesday)
+### 6th August  (Tuesday)
 
-1. 13:00--14:00 TBA
-2. 14:30--15:30 TBA
-3. 16:00--17:00 TBA
+1. 10:00--11:00 Ryosuke Takahashi (Tohoku University)
+2. 11:30--12:30 Vamsi Pritham Pingali (Indian Institute of Science)
+3. 14:30--15:30 Daisuke Yamakawa (Tokyo University of Science)
+4. 16:00--17:00 Pengfei Huang (Max-Planck-Institut for Mathematics in the Science)
 
-### 18th September (Wednesday)
-1. 10:00--11:00 TBA
-2. 11:30--12:30 TBA
-3. 14:30--15:30 TBA
-4. 16:00--17:00 TBA
+### 7th August (Wednesday)
+1. 9:00--10:00 Xuemiao Chen (University of Waterloo) 
+2. 10:20--11:00 Di Wu (Nanjing University of Science and Technology)
+3. 11:20--12:00 Takashi Ono (Osaka University)
+4. 12:20--13:00 TBA
 
-### 19th September (Thursday)
-1. 10:00--11:00 TBA
-2. 11:30--12:30 TBA
-3. 14:30--15:30 TBA
-4. 16:00--17:00 TBA
+### 8th August (Thursday)
+1. 10:00--11:00 Yohan Brunebarbe (Université de Bordeaux)
+2. 11:30--12:30 Wenhao Ou (Academy of Mathematics and System Science, Chinese Academy of Science)
+3. 14:30--15:30 Tomas Gomez (Instituto de Ciencias Matematicas)
+4. 16:00--17:00 Marina Logares (Complutense University of Madrid)
 
-### 20th September (Friday)
-1. 10:00--11:00 TBA
-2. 11:30--12:30 TBA
+### 9th August (Friday)
+1. 10:00--11:00 Nicholas McCleerey (Purdue University)
+2. 11:30--12:30 Florent Schaffhauser (Heidelberg University)
 
-
- - 14:00--18:00 Free disccustio
  -->
  
 
