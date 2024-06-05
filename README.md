@@ -29,7 +29,7 @@ Faculty of Science, Bldg. E, Room E108 (1F).
 
 ##  Registration
 
-As for registration, please fill in the following form: [Link](https://forms.office.com/r/u4c6sswTiP)
+As for registration, please fill in [this form](https://forms.office.com/r/u4c6sswTiP)
 
 <!--
 # New developments in Kobayashi--Hitchin correspondence and Higgs bundles
