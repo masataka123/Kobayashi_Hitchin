@@ -23,11 +23,10 @@ Faculty of Science, Bldg. E, Room E108 (1F).
 - Wenhao Ou (Academy of Mathematics and System Science, Chinese Academy of Science)
 - Vamsi Pritham Pingali (Indian Institute of Science)
 - Florent Schaffhauser (Heidelberg University)
-- Ryosuke Takahashi (Tohoku University)
 - Di Wu (Nanjing University of Science and Technology)
 - Daisuke Yamakawa (Tokyo University of Science)
 
-
+* Ryosuke Takahashi's talk is canceled.
 ## Schedule
 
 
@@ -85,6 +84,9 @@ Here is the PDF file of program and abstracts. [Program](https://masataka123.git
 As for registration, please fill in [this form](https://forms.office.com/r/u4c6sswTiP)
 
 <!--
+- Ryosuke Takahashi (Tohoku University)
+
+
 # New developments in Kobayashi--Hitchin correspondence and Higgs bundles
 
 - Qiongling Li (Chern Institute of Mathematics, Nankai University)
