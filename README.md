@@ -77,7 +77,7 @@ Higgs bundles for nonconstant groups and applications
 
 ##  Program
 
-Here is the PDF file of program and abstracts. [Program](https://masataka123.github.io/complexgeometry_osaka_2024/material/program.pdf)
+Here is the PDF file of program and abstracts. [Program](https://masataka123.github.io/Kobayashi_Hitchin/material/program.pdf)
 
 ##  Registration
 
@@ -126,7 +126,7 @@ In this map, "R26" denotes Sugimotocho Station (杉本町駅).
  If you need further assistance (for example, how to get to Sugimotocho Station from Kansai International Airport), please refer to [this link](https://www.omu.ac.jp/orp/ocami-en/about/directions/).
 
 ## Lunch place
-Here is a [map on lunch places](https://masataka123.github.io/complexgeometry_osaka_2024/material/PlacesToEat.png).
+Here is a [map on lunch places](https://masataka123.github.io/Kobayashi_Hitchin/material/PlacesToEat.png).
 
 <!--
 It takes 5 minites on foot from Sugimoto-cho Station to the conference room.
