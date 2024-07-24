@@ -26,7 +26,7 @@ Faculty of Science, Bldg. E, Room E108 (1F).
 - Di Wu (Nanjing University of Science and Technology)
 - Daisuke Yamakawa (Tokyo University of Science)
 
-* Ryosuke Takahashi's talk is canceled.
+Ryosuke Takahashi's talk is canceled.
 ## Schedule
 
 
